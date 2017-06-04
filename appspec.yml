@@ -3,3 +3,6 @@ os: linux
 files:
   - source: /index.html
     destination: /var/www/html/
+    
+  - source: /abc.txt
+    destination: /home/ubuntu/
